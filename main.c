@@ -69,6 +69,7 @@ void fileScan(char *a, int ind){
 
         } else {
             printf(" (File)\n");
+            //The virus checking algorithm will be implemented here.
         }
 
     }
