@@ -116,7 +116,7 @@ void storeFile( char *a, int nC, int nV){
     strcpy(virus[i], buff);
     i++;
   }
-
+  fclose(f);
   cure(data, virus, nV,a, nC);
 
 }
