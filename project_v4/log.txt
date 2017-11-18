@@ -1,0 +1,196 @@
+NAME: axxx - Copy.txt | PATH: .\folder\axxx - Copy.txt | CHARACTER SIZE: 26868 | VIRUSES FOUND AND FIXED: 89 | TIME TAKEN: 0.149000 s
+
+NAME: axxx.txt | PATH: .\folder\axxx.txt | CHARACTER SIZE: 13638 | VIRUSES FOUND AND FIXED: 89 | TIME TAKEN: 0.044000 s
+
+NAME: file2.txt | PATH: .\folder\bc\file2.txt | CHARACTER SIZE: 16284 | VIRUSES FOUND AND FIXED: 89 | TIME TAKEN: 0.055000 s
+
+NAME: asdf.txt | PATH: .\folder\bc\New folder\asdf.txt | CHARACTER SIZE: 16284 | VIRUSES FOUND AND FIXED: 89 | TIME TAKEN: 0.056000 s
+
+NAME: New Text Document.txt | PATH: .\folder\bc\New Text Document.txt | CHARACTER SIZE: 14520 | VIRUSES FOUND AND FIXED: 89 | TIME TAKEN: 0.046000 s
+
+NAME: dev.txt | PATH: .\folder\dev.txt | CHARACTER SIZE: 13638 | VIRUSES FOUND AND FIXED: 89 | TIME TAKEN: 0.039000 s
+
+NAME: axxx - Copy.txt | PATH: .\folder\axxx - Copy.txt | CHARACTER SIZE: 26867 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.219000 s
+
+NAME: axxx.txt | PATH: .\folder\axxx.txt | CHARACTER SIZE: 13637 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.037000 s
+
+NAME: file2.txt | PATH: .\folder\bc\file2.txt | CHARACTER SIZE: 16283 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.054000 s
+
+NAME: asdf.txt | PATH: .\folder\bc\New folder\asdf.txt | CHARACTER SIZE: 16283 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.052000 s
+
+NAME: New Text Document.txt | PATH: .\folder\bc\New Text Document.txt | CHARACTER SIZE: 14519 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.042000 s
+
+NAME: dev.txt | PATH: .\folder\dev.txt | CHARACTER SIZE: 13637 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.040000 s
+
+NAME: axxx - Copy.txt | PATH: .\folder\axxx - Copy.txt | CHARACTER SIZE: 26867 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.140000 s
+
+NAME: axxx.txt | PATH: .\folder\axxx.txt | CHARACTER SIZE: 13637 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.039000 s
+
+NAME: file2.txt | PATH: .\folder\bc\file2.txt | CHARACTER SIZE: 16283 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.061000 s
+
+NAME: asdf.txt | PATH: .\folder\bc\New folder\asdf.txt | CHARACTER SIZE: 16283 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.054000 s
+
+NAME: New Text Document.txt | PATH: .\folder\bc\New Text Document.txt | CHARACTER SIZE: 14519 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.047000 s
+
+NAME: dev.txt | PATH: .\folder\dev.txt | CHARACTER SIZE: 13637 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.069000 s
+
+NAME: axxx - Copy.txt | PATH: .\folder\axxx - Copy.txt | CHARACTER SIZE: 27247 | VIRUSES FOUND AND FIXED: 6 | TIME TAKEN: 0.142000 s
+
+NAME: axxx.txt | PATH: .\folder\axxx.txt | CHARACTER SIZE: 14017 | VIRUSES FOUND AND FIXED: 5 | TIME TAKEN: 0.045000 s
+
+NAME: file2.txt | PATH: .\folder\bc\file2.txt | CHARACTER SIZE: 16663 | VIRUSES FOUND AND FIXED: 5 | TIME TAKEN: 0.056000 s
+
+NAME: asdf.txt | PATH: .\folder\bc\New folder\asdf.txt | CHARACTER SIZE: 16663 | VIRUSES FOUND AND FIXED: 5 | TIME TAKEN: 0.063000 s
+
+NAME: New Text Document.txt | PATH: .\folder\bc\New Text Document.txt | CHARACTER SIZE: 14899 | VIRUSES FOUND AND FIXED: 5 | TIME TAKEN: 0.054000 s
+
+NAME: dev.txt | PATH: .\folder\dev.txt | CHARACTER SIZE: 14017 | VIRUSES FOUND AND FIXED: 5 | TIME TAKEN: 0.041000 s
+
+NAME: axxx - Copy.txt | PATH: .\folder\axxx - Copy.txt | CHARACTER SIZE: 27247 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.141000 s
+
+NAME: axxx.txt | PATH: .\folder\axxx.txt | CHARACTER SIZE: 14017 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.039000 s
+
+NAME: file2.txt | PATH: .\folder\bc\file2.txt | CHARACTER SIZE: 16663 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.056000 s
+
+NAME: asdf.txt | PATH: .\folder\bc\New folder\asdf.txt | CHARACTER SIZE: 16663 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.061000 s
+
+NAME: New Text Document.txt | PATH: .\folder\bc\New Text Document.txt | CHARACTER SIZE: 14899 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.046000 s
+
+NAME: dev.txt | PATH: .\folder\dev.txt | CHARACTER SIZE: 14017 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.041000 s
+
+
+
+NAME: axxx - Copy.txt | PATH: .\folder\axxx - Copy.txt | CHARACTER SIZE: 27246 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.142000 s
+
+NAME: axxx.txt | PATH: .\folder\axxx.txt | CHARACTER SIZE: 14017 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.048000 s
+
+NAME: file2.txt | PATH: .\folder\bc\file2.txt | CHARACTER SIZE: 16663 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.058000 s
+
+NAME: asdf.txt | PATH: .\folder\bc\New folder\asdf.txt | CHARACTER SIZE: 16663 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.059000 s
+
+NAME: New Text Document.txt | PATH: .\folder\bc\New Text Document.txt | CHARACTER SIZE: 14899 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.043000 s
+
+NAME: dev.txt | PATH: .\folder\dev.txt | CHARACTER SIZE: 14017 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.044000 s
+
+
+
+
+
+NAME: axxx - Copy.txt | PATH: .\folder\axxx - Copy.txt | CHARACTER SIZE: 31045 | VIRUSES FOUND AND FIXED: 59 | TIME TAKEN: 0.183000 s
+
+NAME: axxx.txt | PATH: .\folder\axxx.txt | CHARACTER SIZE: 17817 | VIRUSES FOUND AND FIXED: 59 | TIME TAKEN: 0.065000 s
+
+NAME: file2.txt | PATH: .\folder\bc\file2.txt | CHARACTER SIZE: 20463 | VIRUSES FOUND AND FIXED: 59 | TIME TAKEN: 0.086000 s
+
+NAME: asdf.txt | PATH: .\folder\bc\New folder\asdf.txt | CHARACTER SIZE: 20463 | VIRUSES FOUND AND FIXED: 59 | TIME TAKEN: 0.081000 s
+
+NAME: New Text Document.txt | PATH: .\folder\bc\New Text Document.txt | CHARACTER SIZE: 18699 | VIRUSES FOUND AND FIXED: 59 | TIME TAKEN: 0.071000 s
+
+NAME: dev.txt | PATH: .\folder\dev.txt | CHARACTER SIZE: 17817 | VIRUSES FOUND AND FIXED: 59 | TIME TAKEN: 0.064000 s
+
+
+
+NAME: axxx - Copy.txt | PATH: .\folder\axxx - Copy.txt | CHARACTER SIZE: 21168 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.088000 s
+
+NAME: axxx.txt | PATH: .\folder\axxx.txt | CHARACTER SIZE: 7938 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.015000 s
+
+NAME: file2.txt | PATH: .\folder\bc\file2.txt | CHARACTER SIZE: 10584 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.025000 s
+
+NAME: asdf.txt | PATH: .\folder\bc\New folder\asdf.txt | CHARACTER SIZE: 10584 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.023000 s
+
+NAME: New Text Document.txt | PATH: .\folder\bc\New Text Document.txt | CHARACTER SIZE: 8820 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.019000 s
+
+NAME: dev.txt | PATH: .\folder\dev.txt | CHARACTER SIZE: 7938 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.017000 s
+
+
+
+
+
+
+
+NAME: axxx - Copy.txt | PATH: .\folder\axxx - Copy.txt | CHARACTER SIZE: 22117 | VIRUSES FOUND AND FIXED: 14 | TIME TAKEN: 0.094000 s
+
+NAME: axxx.txt | PATH: .\folder\axxx.txt | CHARACTER SIZE: 8887 | VIRUSES FOUND AND FIXED: 14 | TIME TAKEN: 0.021000 s
+
+NAME: file2.txt | PATH: .\folder\bc\file2.txt | CHARACTER SIZE: 11533 | VIRUSES FOUND AND FIXED: 14 | TIME TAKEN: 0.030000 s
+
+NAME: asdf.txt | PATH: .\folder\bc\New folder\asdf.txt | CHARACTER SIZE: 11533 | VIRUSES FOUND AND FIXED: 14 | TIME TAKEN: 0.031000 s
+
+NAME: New Text Document.txt | PATH: .\folder\bc\New Text Document.txt | CHARACTER SIZE: 9769 | VIRUSES FOUND AND FIXED: 14 | TIME TAKEN: 0.020000 s
+
+NAME: dev.txt | PATH: .\folder\dev.txt | CHARACTER SIZE: 8887 | VIRUSES FOUND AND FIXED: 14 | TIME TAKEN: 0.018000 s
+
+
+
+NAME: axxx - Copy.txt | PATH: .\folder\axxx - Copy.txt | CHARACTER SIZE: 22117 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.085000 s
+
+NAME: axxx.txt | PATH: .\folder\axxx.txt | CHARACTER SIZE: 8887 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.031000 s
+
+NAME: file2.txt | PATH: .\folder\bc\file2.txt | CHARACTER SIZE: 11532 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.034000 s
+
+NAME: asdf.txt | PATH: .\folder\bc\New folder\asdf.txt | CHARACTER SIZE: 11532 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.016000 s
+
+NAME: New Text Document.txt | PATH: .\folder\bc\New Text Document.txt | CHARACTER SIZE: 9769 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.016000 s
+
+NAME: dev.txt | PATH: .\folder\dev.txt | CHARACTER SIZE: 8887 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.016000 s
+
+
+
+NAME: axxx - Copy.txt | PATH: .\folder\axxx - Copy.txt | CHARACTER SIZE: 22117 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.100000 s
+
+NAME: axxx.txt | PATH: .\folder\axxx.txt | CHARACTER SIZE: 8887 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.016000 s
+
+NAME: file2.txt | PATH: .\folder\bc\file2.txt | CHARACTER SIZE: 11531 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.038000 s
+
+NAME: asdf.txt | PATH: .\folder\bc\New folder\asdf.txt | CHARACTER SIZE: 11531 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.031000 s
+
+NAME: New Text Document.txt | PATH: .\folder\bc\New Text Document.txt | CHARACTER SIZE: 9769 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.031000 s
+
+NAME: dev.txt | PATH: .\folder\dev.txt | CHARACTER SIZE: 8887 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.016000 s
+
+
+
+
+
+NAME: axxx - Copy.txt | PATH: .\folder\axxx - Copy.txt | CHARACTER SIZE: 22687 | VIRUSES FOUND AND FIXED: 8 | TIME TAKEN: 0.101000 s
+
+NAME: axxx.txt | PATH: .\folder\axxx.txt | CHARACTER SIZE: 9457 | VIRUSES FOUND AND FIXED: 8 | TIME TAKEN: 0.015000 s
+
+NAME: file2.txt | PATH: .\folder\bc\file2.txt | CHARACTER SIZE: 12101 | VIRUSES FOUND AND FIXED: 8 | TIME TAKEN: 0.031000 s
+
+NAME: asdf.txt | PATH: .\folder\bc\New folder\asdf.txt | CHARACTER SIZE: 12101 | VIRUSES FOUND AND FIXED: 8 | TIME TAKEN: 0.038000 s
+
+NAME: New Text Document.txt | PATH: .\folder\bc\New Text Document.txt | CHARACTER SIZE: 10339 | VIRUSES FOUND AND FIXED: 9 | TIME TAKEN: 0.031000 s
+
+NAME: dev.txt | PATH: .\folder\dev.txt | CHARACTER SIZE: 9457 | VIRUSES FOUND AND FIXED: 8 | TIME TAKEN: 0.016000 s
+
+
+
+NAME: axxx - Copy.txt | PATH: .\folder\axxx - Copy.txt | CHARACTER SIZE: 22686 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.101000 s
+
+NAME: axxx.txt | PATH: .\folder\axxx.txt | CHARACTER SIZE: 9457 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.031000 s
+
+NAME: file2.txt | PATH: .\folder\bc\file2.txt | CHARACTER SIZE: 12101 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.047000 s
+
+NAME: asdf.txt | PATH: .\folder\bc\New folder\asdf.txt | CHARACTER SIZE: 12101 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.038000 s
+
+NAME: New Text Document.txt | PATH: .\folder\bc\New Text Document.txt | CHARACTER SIZE: 10339 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.031000 s
+
+NAME: dev.txt | PATH: .\folder\dev.txt | CHARACTER SIZE: 9457 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.015000 s
+
+
+
+NAME: axxx - Copy.txt | PATH: .\folder\axxx - Copy.txt | CHARACTER SIZE: 22685 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.101000 s
+
+NAME: axxx.txt | PATH: .\folder\axxx.txt | CHARACTER SIZE: 9457 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.031000 s
+
+NAME: file2.txt | PATH: .\folder\bc\file2.txt | CHARACTER SIZE: 12101 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.038000 s
+
+NAME: asdf.txt | PATH: .\folder\bc\New folder\asdf.txt | CHARACTER SIZE: 12101 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.031000 s
+
+NAME: New Text Document.txt | PATH: .\folder\bc\New Text Document.txt | CHARACTER SIZE: 10339 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.031000 s
+
+NAME: dev.txt | PATH: .\folder\dev.txt | CHARACTER SIZE: 9457 | VIRUSES FOUND AND FIXED: 0 | TIME TAKEN: 0.037000 s
+
+
+
